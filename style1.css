@@ -86,10 +86,11 @@ ul li {
     color: #333;
 }
 
+
 footer {
     text-align: center;
+    padding: 20px;
+    background-color: #b8a5bb;
     font-size: 14px;
-    color: #777;
     margin-top: 20px;
-    background-color: rgb(151, 5, 132);
 }
